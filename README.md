@@ -1,3 +1,12 @@
+# React-FamilyAlbum
+a simple family album demo created with React
+
+
+
+
+modified based on the react tutorial
+
+
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 # React Tutorial
@@ -38,3 +47,4 @@ go run server.go
 ```
 
 And visit <http://localhost:3000/>. Try opening multiple tabs!
+
